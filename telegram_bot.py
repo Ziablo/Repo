@@ -16,7 +16,7 @@ BOT_TOKEN = "7553192698:AAGU4yYCTjYJ5iVYVtbMREKIDbLbZZ6cb7s"
 # ⚠️ IMPORTANT : Remplacez par l'ID ou le username de votre canal
 # Format ID : -1001234567890
 # Format username : @votre_canal
-CANAL_REQUIS = "@votre_canal"  # À modifier !
+CANAL_REQUIS = "@ziablowcontent"  # À modifier !
 
 # Configuration du logging
 logging.basicConfig(
